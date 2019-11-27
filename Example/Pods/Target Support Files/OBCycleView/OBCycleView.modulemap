@@ -1,0 +1,6 @@
+framework module OBCycleView {
+  umbrella header "OBCycleView-umbrella.h"
+
+  export *
+  module * { export * }
+}

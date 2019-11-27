@@ -1,0 +1,6 @@
+framework module Pods_OBCycleView_Tests {
+  umbrella header "Pods-OBCycleView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
