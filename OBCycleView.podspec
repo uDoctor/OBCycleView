@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'OBCycleView'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'OBCycleView是一个高效的Banner无线滚动View，并且轻量级'
 
 # This description is used to generate tags and improve search results.
