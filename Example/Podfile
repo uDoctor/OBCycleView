@@ -1,0 +1,6 @@
+use_frameworks!
+target 'OBCycleView_Tests' do
+  pod 'OBCycleView', :path => '../'
+  
+  
+end
