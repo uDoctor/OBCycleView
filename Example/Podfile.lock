@@ -1,0 +1,16 @@
+PODS:
+  - OBCycleView (0.1.0)
+
+DEPENDENCIES:
+  - OBCycleView (from `../`)
+
+EXTERNAL SOURCES:
+  OBCycleView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OBCycleView: 05cf89b6b8f9844d6f4f403ca1e84f818b8df18e
+
+PODFILE CHECKSUM: 1d34a5b8abd191d33e57063e2f6c47da56030a3e
+
+COCOAPODS: 1.8.4
